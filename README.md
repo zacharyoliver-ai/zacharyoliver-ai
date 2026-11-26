@@ -22,10 +22,7 @@ I run teams of AI coding agents to build and secure real software. I don't hand-
 | [agent-guardrails](https://github.com/zacharyoliver-ai/agent-guardrails) | The hooks and checks I use to run many AI agents at once safely, each proven by a planted bug |
 | [awnitboss-security](https://github.com/zacharyoliver-ai/awnitboss-security) | How Awnitboss is security-assessed: method, severity scale, results that are safe to publish |
 | [llm-red-team-cases](https://github.com/zacharyoliver-ai/llm-red-team-cases) | 127 red-team cases for AI that talks to the public, with a validator and scorecard |
-| [soc2-readiness-kit](https://github.com/zacharyoliver-ai/soc2-readiness-kit) | Control matrix, policies, evidence lists, ISO 27001 gap checklist, vendor questionnaire |
 | [automated-messaging-compliance](https://github.com/zacharyoliver-ai/automated-messaging-compliance) | TCPA, A2P 10DLC, CAN-SPAM, opt-outs and AI disclosure for automated texts and email |
-| [insider-risk-casebook](https://github.com/zacharyoliver-ai/insider-risk-casebook) | Insider risk program basics, investigation workflow, templates and fictional worked cases |
-| [small-office-security-audit](https://github.com/zacharyoliver-ai/small-office-security-audit) | Auditing and hardening a small office on Google Workspace or Microsoft 365 |
 
 ## How I work
 
